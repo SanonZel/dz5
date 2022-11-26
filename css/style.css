@@ -730,3 +730,12 @@ a {
         opacity: 1;
     }
 }
+ .dof {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #54ed39;
+    width: 400px;
+    height: 100px;
+ }
